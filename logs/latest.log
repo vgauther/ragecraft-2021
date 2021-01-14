@@ -1,0 +1,16 @@
+[23:23:32] [Server thread/INFO]: Starting minecraft server version 1.8.9
+[23:23:32] [Server thread/INFO]: Loading properties
+[23:23:32] [Server thread/INFO]: Default game type: SURVIVAL
+[23:23:32] [Server thread/INFO]: Generating keypair
+[23:23:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:23:33] [Server thread/INFO]: Using epoll channel type
+[23:23:33] [Server thread/INFO]: Preparing level "world"
+[23:23:33] [Server thread/INFO]: Preparing start region for level 0
+[23:23:34] [Server thread/INFO]: Preparing spawn area: 80%
+[23:23:34] [Server thread/INFO]: Done (1.248s)! For help, type "help" or "?"
+[23:23:41] [User Authenticator #1/INFO]: UUID of player Joe_La_Fritte is 74a4223a-62bb-4cef-ae42-381786e36cee
+[23:23:42] [Server thread/INFO]: Joe_La_Fritte[/90.120.22.17:64046] logged in with entity id 162 at (255.5, 72.0, 249.5)
+[23:23:42] [Server thread/INFO]: Joe_La_Fritte joined the game
+[23:23:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4233ms behind, skipping 84 tick(s)
+[23:23:53] [Server thread/INFO]: Joe_La_Fritte has just earned the achievement [Taking Inventory]
+[23:26:30] [Server Shutdown Thread/INFO]: Stopping server
